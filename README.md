@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Osman Akdeniz 👋
 
-<!--
-**OsmanAkdeniz24/OsmanAkdeniz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer** | ETL · Data Modeling · Data Governance · Oracle
 
-Here are some ideas to get you started:
+- 🎓 B.Sc. Computer Engineering, Düzce University (2026)
+- 🏦 3 years as a Data Engineering Intern at Garanti BBVA Teknoloji: data dictionary mapping, physical data modeling (PowerDesigner), ODI mappings, DEV→TEST→QA→PROD deployments
+- 🤖 Currently: Agentic AI Bootcamp (Season 2), building autonomous agent prototypes
+- 📍 Open to data engineering roles in Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Oracle SQL · ODI · PowerDesigner · PostgreSQL · Python · Power BI
+
+### Projects
+- **Financial Data Warehouse & Reporting**: PostgreSQL, Python, Power BI
+- *Agentic AI bootcamp project* (coming soon)
+
+📫 https://linkedin.com/in/osman-akdeniz · osmanakdeniz146@gmail.com 
